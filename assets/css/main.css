@@ -146,7 +146,7 @@ section {
 .header .logo h1 {
   font-size: 30px;
   font-weight: 700;
-  color: var(--color-default);
+  color: var(--color-green);
   font-family: var(--font-primary);
 }
 
@@ -212,7 +212,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Desktop Navigation 
+# Desktop Navigation
 --------------------------------------------------------------*/
 @media (min-width: 1280px) {
   .navbar {
@@ -1197,7 +1197,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   overflow: hidden;
-  background: rgba(var(--color-black-rgb), 0.9);
+  background: rgba(var(--color-green-rgb), 0.9);
   font-size: 16px;
   color: rgba(var(--color-white-rgb), 0.7);
 }
@@ -1267,7 +1267,7 @@ section {
 }
 
 .footer .footer-legal {
-  background: var(--color-black);
+  background: var(--color-green);
   padding: 40px 0;
 }
 
