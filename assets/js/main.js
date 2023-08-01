@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loop: true,
     slideToClickedSlide: true,
     autoplay: {
-      delay: 7000,
+      delay: 6000,
       disableOnInteraction: false,
     },
     pagination: {
